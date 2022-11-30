@@ -1,0 +1,5 @@
+/.venv
+/config.py
+/news_dic.json
+/tesr.py
+/__pycache__
